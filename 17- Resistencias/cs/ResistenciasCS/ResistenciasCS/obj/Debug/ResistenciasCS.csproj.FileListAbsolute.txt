@@ -1,0 +1,9 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\18\cs\ResistenciasCS\ResistenciasCS\bin\Debug\ResistenciasCS.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\18\cs\ResistenciasCS\ResistenciasCS\bin\Debug\ResistenciasCS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\18\cs\ResistenciasCS\ResistenciasCS\bin\Debug\ResistenciasCS.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\18\cs\ResistenciasCS\ResistenciasCS\obj\Debug\ResistenciasCS.csprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\18\cs\ResistenciasCS\ResistenciasCS\obj\Debug\ResistenciasCS.frmResistenciasCS.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\18\cs\ResistenciasCS\ResistenciasCS\obj\Debug\ResistenciasCS.Properties.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\18\cs\ResistenciasCS\ResistenciasCS\obj\Debug\ResistenciasCS.csproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\18\cs\ResistenciasCS\ResistenciasCS\obj\Debug\ResistenciasCS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\18\cs\ResistenciasCS\ResistenciasCS\obj\Debug\ResistenciasCS.pdb

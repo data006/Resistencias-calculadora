@@ -1,0 +1,11 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\18\vb\ResistenciasVB\ResistenciasVB\bin\Debug\ResistenciasVB.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\18\vb\ResistenciasVB\ResistenciasVB\bin\Debug\ResistenciasVB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\18\vb\ResistenciasVB\ResistenciasVB\bin\Debug\ResistenciasVB.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\18\vb\ResistenciasVB\ResistenciasVB\bin\Debug\ResistenciasVB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\18\vb\ResistenciasVB\ResistenciasVB\obj\Debug\ResistenciasVB.vbprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\18\vb\ResistenciasVB\ResistenciasVB\obj\Debug\ResistenciasVB.frmResistenciasVB.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\18\vb\ResistenciasVB\ResistenciasVB\obj\Debug\ResistenciasVB.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\18\vb\ResistenciasVB\ResistenciasVB\obj\Debug\ResistenciasVB.vbproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\18\vb\ResistenciasVB\ResistenciasVB\obj\Debug\ResistenciasVB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\18\vb\ResistenciasVB\ResistenciasVB\obj\Debug\ResistenciasVB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\18\vb\ResistenciasVB\ResistenciasVB\obj\Debug\ResistenciasVB.pdb
